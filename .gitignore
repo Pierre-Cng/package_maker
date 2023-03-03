@@ -1,0 +1,6 @@
+.git
+.idea
+/project_env/
+__pycache__
+.env
+
